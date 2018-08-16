@@ -11,3 +11,5 @@ The file "Tuning the Model with Sample Data.ipynb" includes code that was used t
 The file "Creating df_X with All Data.ipynb" creates all of the features on the entire dataset.
 
 The file "Running Model on All Data.ipynb" runs the model on the entire dataset with the parameters found previously.
+
+The tableau_visuals folder provides a link to the dashboard that I created. The dashboard contains information about average probability of reordering a product for departments, aisles, and time of day.
